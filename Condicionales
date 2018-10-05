@@ -1,0 +1,23 @@
+## en python 2.8
+a = 'hola'
+b = 'mundo'
+if a == b :
+## respetar siempre 4 espacio o un TAB dependiendo de como sea mejor y del editor que este usando 
+    print a + b
+else :
+    print 'hola falso mundo'
+    
+## en python 3 lml !! el calidad 
+a = "hola"
+b = "mundo"
+if(a == b) :
+## siempre respete los 4 espacios forever, todo lo que este en los 4 espacios esta dentro del if
+    print(a + b)
+else :
+    print("hola falso mundo")
+    
+
+
+
+
+    
